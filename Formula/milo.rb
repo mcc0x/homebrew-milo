@@ -1,9 +1,9 @@
 class Milo < Formula
   desc "Git-aware file, history, diff and usage panes for the Rex terminal"
   homepage "https://usemilo.net"
-  url "https://github.com/mcc0x/milo/releases/download/v0.1.7/milo-aarch64-apple-darwin", using: :nounzip
-  version "0.1.7"
-  sha256 "1ffc5a8e300e28e7588d8a4939bb7d82088a03dccbf6551fd17a5ed3a7566c0f"
+  url "https://github.com/mcc0x/milo/releases/download/v0.1.8/milo-aarch64-apple-darwin", using: :nounzip
+  version "0.1.8"
+  sha256 "e715e19d593d476dc78711fca2a96ef8ff65fb41e414a00a261a261e2d107043"
   license "MIT"
 
   depends_on arch: :arm64
